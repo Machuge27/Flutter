@@ -1,6 +1,3 @@
-Great question! Let’s break it down clearly:
-
----
 
 ### 🚀 **What is Flutter?**
 
@@ -63,5 +60,3 @@ All using **a single codebase** written in **Dart** (Flutter’s programming lan
 > **Flutter** is faster and gives full control over UI.  
 > **React Native** is more popular and easier to adopt if you know JavaScript.  
 > **Both are great** — choose based on your needs and team skillset.
-
-Want a real-world example comparison or help deciding based on your goals?
