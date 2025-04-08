@@ -238,4 +238,3 @@ Check the launcher icon on the device or emulator to ensure that your custom ico
 
 If you follow the `flutter_launcher_icons` method, you’ll have a streamlined and efficient process to set a custom launcher icon for your app.
 
-Key : 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
